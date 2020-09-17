@@ -8,6 +8,10 @@
 - Mid Term Requirements
 - Achievements
 - Docs
+- Product
 
-#### Author Biography
-<b>Gioele Bigini</b>, Alumnus in Data Science of the European Institute of Innovation and Technology (EIT Digital). Actually Ph.D Student at University of Urbino.
+#### Author
+<b>Gioele Bigini</b>, Ph.D Student at University of Urbino.
+
+#### Supervisor
+<b>Emanuele Lattanzi</b>, Professor at University of Urbino.
