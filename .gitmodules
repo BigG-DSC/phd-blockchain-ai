@@ -1,8 +1,8 @@
 [submodule "projects/balance-backend"]
 	path = projects/balance-backend
 	url = https://github.com/BigG-DSC/balance-backend
-	branch = origin/master
+	branch = master
 [submodule "projects/balance-flutter"]
 	path = projects/balance-flutter
 	url = https://github.com/BigG-DSC/balance-flutter
-	branch = origin/master
+	branch = master
