@@ -1,14 +1,13 @@
-# Ph.D. Thesis and Material Repo
-#### Nomenclature: Ph.D. in Research Methods in Science and Technology 
-#### Industrial Scholarship in Collaboration with Università Politecnica delle Marche, TU Wien and Marche Region (Italy)
-#### Doctorate Keywords: Smart Health, Blockchain, Artificial Intelligence
+# Industrial Ph.D. in Research Methods in Science and Technology Repo
+<b>Field:</b> Computer Science and Engineering
+<b>In Collaboration with Università Politecnica delle Marche and TU Wien</b>
+<b>Funded by:</b> Marche Region
+<b>Doctorate Keywords:</b> Digital Health, Distributed Ledger Technology, Artificial Intelligence
 
 #### Folder Content
-- Publications
-- Mid Term Requirements
-- Achievements
-- Docs
-- Product
+- Works: Scientific publications
+- Projects: Practical outcomes of researches
+- Thesis
 
 #### Author
 <b>Gioele Bigini</b>, Ph.D Student at University of Urbino.
