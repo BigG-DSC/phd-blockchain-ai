@@ -1,4 +1,6 @@
 # Industrial Ph.D. in Research Methods in Science and Technology Repository
+
+#### More about the Ph.D. path
 Field: <b>Computer Science and Engineering</b><br>
 In Collaboration with: <b>Università Politecnica delle Marche and TU Wien</b><br>
 With the professional Collaboration of: <b>Digit Srl</b><br>
