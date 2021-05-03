@@ -1,6 +1,6 @@
 [submodule "projects/balance-backend"]
 	path = projects/balance-backend
 	url = https://github.com/BigG-DSC/balance-backend
-[submodule "projects/balance-flutter"]
-	path = projects/balance-flutter
-	url = https://github.com/BigG-DSC/balance-flutter
+[submodule "projects/balance-mobile"]
+	path = projects/balance-mobile
+	url = https://github.com/ComputerScienceUniUrb/balance-mobile.git
