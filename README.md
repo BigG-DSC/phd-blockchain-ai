@@ -7,7 +7,7 @@ Funded by: <b>Marche Region</b><br>
 Doctorate Keywords: <b>Digital Health, Blockchain, Artificial Intelligence</b>
 
 ### Folder Content
-- Works: scrintific papers
+- Works: scientific papers
 - Projects: empirical outcomes
 - Thesis: not available yet
 
